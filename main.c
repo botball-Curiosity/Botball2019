@@ -3,6 +3,7 @@
 //goal is to have both sensors on a white value
 //analog(0) is the right sensor, analog(1) is the left sensor
 //motor(0) is the right motor, motor(3) is the left motor
+//added github comment
 int main()
 {
     //moveForward (2000);
